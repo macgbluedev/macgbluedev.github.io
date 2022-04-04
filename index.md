@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Test GitHub pages
 
 You can use the [editor on GitHub](https://github.com/macgbluedev/testgithubpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
